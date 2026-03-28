@@ -60,8 +60,6 @@ docker build -t nsfw-yolo .
 docker run -p 5000:5000 --name nsfw-yolo-run nsfw-yolo
 ```
 
-> The code, Dockerfile, and wrappers are **AGPL-3.0 licensed**. Users can execute the models, but the original model code is **not included** in this repository.
-
 ---
 
 ## License
